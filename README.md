@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working freelance as a web developer (Typescript, Astro, Vue, React, Tailwind).
 - 💞️ I’m looking to collaborate on exciting projects that could make a positive impact on our world.
-- 📫 How to reach me ... here or head over to my portfolio site at stephthedev.de
+- 📫 How to reach me ... here or head over to my [portfolio site](stephthedev.de). 
 
 <!---
 Steph-The-Dev/Steph-The-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
