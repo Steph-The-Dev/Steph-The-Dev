@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Stephan Pfeiffer!
-## I'm a web developer mainly using Vue and Astro.
+## I'm a web developer mainly using Astro and Vue.
 ### I'd consider myself a problem finder and a solution seeker.
 #### All AI related things fascinate me. Especially computer vision, which might come from my background as a video editor and colorist that I have been for the last sixteen years. 2022 I've started my web development journey.
 
