@@ -1,14 +1,39 @@
 # 👋 Hi, I’m Stephan Pfeiffer!
-## I'm a web developer mainly using Astro and Vue.
-### I'd consider myself a problem finder and a solution seeker.
-#### All AI related things fascinate me. Especially computer vision, which might come from my background as a video editor and colorist that I have been for the last sixteen years. 2022 I've started my web development journey.
+### Senior Visual Signal Specialist | Data Science & Computer Vision Enthusiast | TechLabs Alumni
 
-<!---
-- 🌱 I’m currently making my transition from freelance video editor & colorist to web developer (Typescript, Astro, Vue, React, Tailwind).
-- 💞️ I’m currently on the look out for a role in web development, ideally using Javascript/Typescript and Vue.
-- 📫 If you're hiring, please reach out to me. All my details are on my [portfolio site](https://www.stephthedev.de). 
+**Bridging 20 years of high-end Color Science with the future of Environmental Intelligence.**
 
+---
 
-Steph-The-Dev/Steph-The-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛰️ About Me
+After two decades as a **Senior Colorist and Video Editor**, I am currently pivoting my expertise toward **Data Science**, specializing in **Computer Vision** and **Remote Sensing**. 
+
+My background in post-production has given me a deep, intuitive understanding of image matrices, signal processing, and color space transformations. I am now focusing on applying these "visual insights" to algorithmic data analysis to solve real-world problems.
+
+The catalyst for my transition was the **Full-Stack Development bootcamp at TechLabs** in 2022. Mastering software architecture and code (Vue, Astro, Node.js) opened the door to a more analytical path, leading me to my current deep dive into Python-driven Data Science.
+
+- 🌍 **Mission:** Leveraging Earth Observation data to drive sustainability and "Impact AI".
+- 🎓 **Education:** Dipl.-Kfm. (Business) | Full-Stack Web Development (TechLabs Alumni).
+- 🛠️ **Background:** 18+ years of professional visual signal processing and high-end digital imaging.
+- 🚀 **Currently Learning:** Advanced Statistics, Linear Algebra for ML, and Geospatial Data Analysis.
+
+---
+
+## 🛠️ Technical Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Data Science (Focus)** | Python (NumPy, Pandas, Matplotlib), SQL |
+| **Visual Signal** | Image Matrices, Color Space Transformations, Signal Filtering |
+| **Software Eng.** | Vue.js, Astro, Node.js, MongoDB (TechLabs Alumni) |
+| **Professional Tools** | DaVinci Resolve (Expert), Git, Python Environments |
+
+---
+
+## 📈 My Tech Evolution
+1. **The Visual Era:** 20 years of mastering pixel-level data and signal processing for the screen.
+2. **The Code Pivot:** TechLabs Bootcamp – transitioning from an "end-user" to a software creator.
+3. **The Data Path:** Currently specializing in **Computer Vision** and **Spatial Data** to monitor our planet's health.
+
+- 📫 Reach me on [LinkedIn](DEIN-LINK)
+- ⚡ Fun fact: I've processed billions of pixels for aesthetics; now I'm learning to interpret the signals they carry about our environment.
