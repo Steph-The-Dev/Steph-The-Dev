@@ -35,5 +35,5 @@ The catalyst for my transition was the **Full-Stack Development bootcamp at Tech
 2. **The Code Pivot:** TechLabs Bootcamp – transitioning from an "end-user" to a software creator.
 3. **The Data Path:** Currently specializing in **Computer Vision** and **Spatial Data** to monitor our planet's health.
 
-- 📫 Reach me on [LinkedIn](DEIN-LINK)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/stephanpfeiffer/)
 - ⚡ Fun fact: I've processed billions of pixels for aesthetics; now I'm learning to interpret the signals they carry about our environment.
