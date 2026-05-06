@@ -1,14 +1,14 @@
 # Hi there, I'm Stephan 👋
 
-### Senior Image Professional | MSc Data Science Candidate @ HSLU | Deep Tech Talent (EIT)
+### Senior Imaging Expert | AI Bridge Builder | Dipl.-Kaufmann
 
-I am merging 20 years of experience in high-end visual signals with modern Data Science. 
-My Master's program at the **Lucerne University of Applied Sciences and Arts (HSLU)** is an official partner of the **EIT Deep Tech Talent Initiative**, focused on developing elite tech talent for Europe's future.
+Merging 20 years of precision in high-end visual signal processing with modern Machine Learning. I specialize in bridging deep domain expertise in imaging physics with robust AI implementations to solve "Domain Shift" challenges in real-world data.
 
-- 🎓 **Future studies (beginning in Sept '26):** Applied Information and Data Science (HSLU)
-- 🇪🇺 **Initiative:** Deep Tech Talent Initiative (DTTI / EIT)
-- 🔭 **Specializing in:** Computer Vision, Neural Networks, and Image Signal Integrity
-- 📍 **Based in:** Basel, Switzerland
-- 💼 **Looking for:** 60% roles in Data Science / Imaging starting during my studies
+- 🔭 **Current Focus:** Automated Stain Normalization in Digital Pathology (Reinhard Method, CIELAB, CycleGANs).
+- 🎓 **Roadmap 2026:** 
+  - **June '26:** Deep Learning Specialization @ GSERM (Uni St. Gallen).
+  - **Sept '26:** MSc Applied Information and Data Science @ HSLU (EIT Deep Tech Talent Partner).
+- 📍 **Hub:** Basel, Switzerland
+- 💼 **Availability:** Open for strategic 60% fractional senior collaborations in Life Sciences, Pharma, or Remote Sensing starting Sept '26.
 
-*"Translating decades of visual expertise into Deep Tech solutions."*
+*"Bridging visual logic with algorithmic precision."*
