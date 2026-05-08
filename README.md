@@ -9,6 +9,6 @@ Merging 20 years of precision in high-end visual signal processing with modern M
   - **June '26:** Deep Learning Specialization @ GSERM (Uni St. Gallen).
   - **Sept '26:** MSc Applied Information and Data Science @ HSLU (EIT Deep Tech Talent Partner).
 - 📍 **Hub:** Basel, Switzerland
-- 💼 **Availability:** Open for strategic 60% fractional senior collaborations in Life Sciences, Pharma, or Remote Sensing starting Sept '26.
+- 💼 **Availability:** Open for strategic 60% fractional senior collaborations in Life Sciences, Pharma, Environmental Monitoring (ESG) or Remote Sensing starting Sept '26.
 
 *"Bridging visual logic with algorithmic precision."*
